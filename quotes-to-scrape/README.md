@@ -1,0 +1,1 @@
+Scrape `quotes`, `authors` and `quote tags` from [Quotes to Scrape](http://quotes.toscrape.com/).
